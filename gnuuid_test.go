@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	. "github.com/gnames/gnlib/gnuuid"
+	. "github.com/gnames/gnuuid"
 )
 
 func TestGNDomain(t *testing.T) {
