@@ -1,3 +1,4 @@
 # Package gnuuid
 
-This is a helper package to generate UUID v5 for globalnames.org name-strings.
+This is a helper package to generate UUID v5 for globalnames.org name-strings
+or files.
